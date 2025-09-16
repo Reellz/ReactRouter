@@ -28,7 +28,7 @@ function Gallery() {
           Our <span className="text-blue-600">Gallery</span>
         </h2>
         <p className="text-lg md:text-xl text-gray-600 mb-12">
-          Explore our collection of images, carefully curated to inspire and
+          Explore a collection of images, carefully curated to inspire and
           showcase creativity.
         </p>
 
